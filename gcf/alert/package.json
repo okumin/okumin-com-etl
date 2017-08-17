@@ -1,0 +1,9 @@
+{
+  "name": "slack-alert",
+  "version": "0.0.1",
+  "description": "Alert to Slack",
+  "main": "index.js",
+  "dependencies": {
+    "@slack/client": "3.9.0"
+  }
+}
